@@ -1,12 +1,11 @@
 <div align="center">
 
-<!-- Animated wave greeting -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rudra+Baunk+%F0%9F%91%8B;AI+%2F+ML+Researcher+%F0%9F%A4%96;Co-Founder+%40+Justica+AI+%E2%9A%96%EF%B8%8F;ISRO+Hackathon+Builder+%F0%9F%9B%B0%EF%B8%8F;Research+Intern+%40+IIT+Mandi+%F0%9F%94%AC;GATE+2026+Qualified+%F0%9F%8E%93" alt="Typing SVG" />
+<!-- Animated typing banner -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rudra+Baunk+%F0%9F%91%8B;AI+%2F+ML+Researcher+%F0%9F%A4%96;Co-Founder+%40+Justica+AI+%E2%9A%96%EF%B8%8F;ISRO+Hackathon+Builder+%F0%9F%9B%B0%EF%B8%8F;AWS+Bedrock+Hackathon+Winner+%F0%9F%9A%80;Research+Intern+%40+IIT+Mandi+%F0%9F%94%AC;GATE+2026+Qualified+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
-<!-- Snake animation on contributions (optional setup) -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header&fontSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header" width="100%"/>
 
 </div>
 
@@ -19,7 +18,8 @@ rudra = {
     "name"       : "Rudra Baunk",
     "role"       : ["AI / ML Researcher", "Co-Founder @ Justica AI", "CS Undergrad"],
     "institute"  : "IISER Bhopal (B.S. CS & Engineering, 2022–Present)",
-    "experience" : ["Research Intern @ IIT Mandi", "ISRO Hackathon 2024 & 2025"],
+    "experience" : ["Research Intern @ IIT Mandi", "ISRO Hackathon 2024 & 2025",
+                    "AWS Bedrock Hackathon"],
     "achievement": "GATE 2026 Qualified — CS & IT",
     "currently"  : "Building Agentic AI + Automated Biomedical Microscope",
     "looking_for": "Impactful roles in AI/ML Engineering & Agentic Systems",
@@ -47,10 +47,10 @@ rudra = {
 🛰️<br/><b>Satellite Intelligence</b><br/><sub>Geospatial AI & remote sensing pipelines</sub>
 </td>
 <td align="center" width="200">
-🥽<br/><b>AR / VR Systems</b><br/><sub>IMU sensor fusion & real-time spatial computing</sub>
+🎬<br/><b>Generative AI Apps</b><br/><sub>LLMs, video gen & multi-modal pipelines</sub>
 </td>
 <td align="center" width="200">
-💻<br/><b>Competitive Programming</b><br/><sub>C++ problem solving under pressure</sub>
+🥽<br/><b>AR / VR Systems</b><br/><sub>IMU sensor fusion & real-time spatial computing</sub>
 </td>
 </tr>
 </table>
@@ -75,6 +75,7 @@ I like AI that does things — agents that reason over legal documents, models t
 |------|----------------|--------|
 | ⚖️ **Agentic AI / LegalTech** | Co-founding Justica — multi-agent RAG pipelines for legal research & case reasoning | 🟡 Active |
 | 🔬 **Biomedical Imaging** | Fully automated microscope — 3D-printed hardware + CV-based image segmentation | 🟡 Active |
+| 🎬 **NovaLearn (AWS Bedrock)** | 4-agent video gen pipeline on AWS Bedrock + Chrome MV3 extension for AI study sessions | ✅ Complete |
 | 🛰️ **Geospatial AI (ISRO 2025)** | End-to-end agentic pipeline with vector embeddings + NL querying over GeoJSON maps | ✅ Complete |
 | 📡 **Time Series Forecasting** | Multi-resolution Transformer for long-term forecasting @ IIT Mandi | ✅ Complete |
 | 🥽 **AR/VR via VIO** | Unity AR-to-VR bridge using mobile IMU sensor fusion — no external tracking hardware | ✅ Complete |
@@ -100,6 +101,21 @@ Co-founded an AI-native legaltech startup. Multi-agent pipelines using RAG, vect
 </td>
 <td width="50%" valign="top">
 
+### 🎬 [NovaLearn — AI Study Companion](https://devpost.com/software/novalearn-ty2b3k)
+
+AWS Bedrock Hackathon. Distributed 4-agent video generation pipeline (Amazon Nova Reel) with parallel scene rendering + FFmpeg stitching — produces full explainer videos in ~4 min. Chrome MV3 extension with sub-5s AI recaps, real-time voice, and Nova → OpenAI → Anthropic fallback chain (99%+ uptime).
+
+[![Devpost](https://img.shields.io/badge/View_on_Devpost-003E54?style=flat&logo=devpost&logoColor=white)](https://devpost.com/software/novalearn-ty2b3k)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=flat&logo=amazonaws&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
 ### 🛰️ [Agentic AI for Geospatial Intelligence](https://github.com/rudrab06/ISRO_Hackathon-Project-)
 
 ISRO Hackathon 2025. End-to-end agentic AI pipeline with multi-source geospatial ingestion, vector embedding generation, and natural language querying with GeoJSON map-based responses.
@@ -110,8 +126,6 @@ ISRO Hackathon 2025. End-to-end agentic AI pipeline with multi-source geospatial
 ![Vector DB](https://img.shields.io/badge/Vector_DB-FF6B6B?style=flat)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 📡 [Multi-Resolution Time Series Transformer](https://github.com/rudrab06/Project-on-Multi-Resolution-Time-Series-Transformer-for-Long-Term-forcasting)
@@ -124,9 +138,11 @@ Research @ IIT Mandi. Built MTST for long-term forecasting + Graph Attention Net
 ![Time Series](https://img.shields.io/badge/Time_Series-blue?style=flat)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-### 🔬 Automated Biomedical Microscope
+### 🔬 [Automated Biomedical Microscope](https://github.com/rudrab06)
 
 Designing & fabricating a fully automated microscope from scratch — Fusion 360 CAD → FDM 3D printing → CV-driven focus, stage movement, and biomedical image segmentation. Full hardware + AI prototype at IISER Bhopal.
 
@@ -136,8 +152,6 @@ Designing & fabricating a fully automated microscope from scratch — Fusion 360
 ![3D Printing](https://img.shields.io/badge/3D_Printing-gray?style=flat)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
 ### 🥽 Mobile AR/VR via Visual-Inertial Odometry
@@ -148,18 +162,6 @@ Unity (C#) AR-to-VR bridge using mobile IMU sensor fusion — cuts dependency on
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![VIO](https://img.shields.io/badge/VIO-blue?style=flat)
 ![IMU Fusion](https://img.shields.io/badge/IMU_Fusion-teal?style=flat)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛰️ [Building Footprint & Solar Analysis](https://github.com/rudrab06/Project-on-ISRO-HACKATHONE)
-
-ISRO Hackathon 2024. DeepLabV3+/ResNet-101 segmentation on satellite imagery + solar potential estimation dashboard combining building footprint data with seasonal irradiance analytics.
-
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![ResNet-101](https://img.shields.io/badge/ResNet--101-purple?style=flat)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 
 </td>
 </tr>
@@ -196,20 +198,23 @@ ISRO Hackathon 2024. DeepLabV3+/ResNet-101 segmentation on satellite imagery + s
 ![Geospatial AI](https://img.shields.io/badge/Geospatial_AI-27AE60?style=for-the-badge)
 ![Biomedical Imaging](https://img.shields.io/badge/Biomedical_Imaging-E74C3C?style=for-the-badge)
 
-**Tools & Hardware**
+**Tools & Cloud**
 
+![AWS Bedrock](https://img.shields.io/badge/AWS_Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![CUDA](https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 ![Fusion 360](https://img.shields.io/badge/Fusion_360-FF6A00?style=for-the-badge)
-![3D Printing](https://img.shields.io/badge/3D_Printing-gray?style=for-the-badge)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
 ---
 
 ## 🏆 Achievements
 
 - 🎓 **GATE 2026 Qualified** — Computer Science & IT
+- 🚀 **AWS Bedrock Hackathon** — Built NovaLearn, a 4-agent AI video generation + Chrome extension
 - 🛰️ **ISRO Hackathon 2025** — Participant & Completion Certificate
 - 🛰️ **ISRO Hackathon 2024** — Participant
 - 🔬 **Research Intern @ IIT Mandi** — Time Series & Anomaly Detection, supervised by Dr. Dinesh Singh
