@@ -1,12 +1,59 @@
 <div align="center">
 
-# 🤖 Agentic AI · 📡 Time Series · 🔬 Computer Vision · 🛰️ Geospatial AI
+<!-- Animated wave greeting -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+Rudra+Baunk+%F0%9F%91%8B;AI+%2F+ML+Researcher+%F0%9F%A4%96;Co-Founder+%40+Justica+AI+%E2%9A%96%EF%B8%8F;ISRO+Hackathon+Builder+%F0%9F%9B%B0%EF%B8%8F;Research+Intern+%40+IIT+Mandi+%F0%9F%94%AC;GATE+2026+Qualified+%F0%9F%8E%93" alt="Typing SVG" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-baunk/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrabaunk@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrab06)
+<br/>
+
+<!-- Snake animation on contributions (optional setup) -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=header&fontSize=20" width="100%"/>
 
 </div>
+
+---
+
+## 🙋‍♂️ Who I Am
+
+```python
+rudra = {
+    "name"       : "Rudra Baunk",
+    "role"       : ["AI / ML Researcher", "Co-Founder @ Justica AI", "CS Undergrad"],
+    "institute"  : "IISER Bhopal (B.S. CS & Engineering, 2022–Present)",
+    "experience" : ["Research Intern @ IIT Mandi", "ISRO Hackathon 2024 & 2025"],
+    "achievement": "GATE 2026 Qualified — CS & IT",
+    "currently"  : "Building Agentic AI + Automated Biomedical Microscope",
+    "looking_for": "Impactful roles in AI/ML Engineering & Agentic Systems",
+}
+```
+
+---
+
+## ❤️ What I Love To Do
+
+<table>
+<tr>
+<td align="center" width="200">
+🤖<br/><b>Build Agents</b><br/><sub>Multi-agent systems that reason, retrieve, and act</sub>
+</td>
+<td align="center" width="200">
+📡<br/><b>Forecast Time Series</b><br/><sub>Transformers that learn patterns across time</sub>
+</td>
+<td align="center" width="200">
+🔬<br/><b>Automate Science</b><br/><sub>AI-powered microscopes & biomedical imaging</sub>
+</td>
+</tr>
+<tr>
+<td align="center" width="200">
+🛰️<br/><b>Satellite Intelligence</b><br/><sub>Geospatial AI & remote sensing pipelines</sub>
+</td>
+<td align="center" width="200">
+🥽<br/><b>AR / VR Systems</b><br/><sub>IMU sensor fusion & real-time spatial computing</sub>
+</td>
+<td align="center" width="200">
+💻<br/><b>Competitive Programming</b><br/><sub>C++ problem solving under pressure</sub>
+</td>
+</tr>
+</table>
 
 ---
 
@@ -15,6 +62,10 @@
 I like AI that does things — agents that reason over legal documents, models that see through microscopes, and transformers that predict the future from messy time series. B.S. CS & Engineering undergrad at **IISER Bhopal** (2022–Present), Co-Founder of **Justica AI**, and Research Intern at **IIT Mandi**. GATE 2026 Qualified.
 
 > *Building AI systems that work end-to-end — from satellite imagery to courtroom documents.*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rudra-baunk/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rudrabaunk@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rudrab06)
 
 ---
 
@@ -177,7 +228,7 @@ ISRO Hackathon 2024. DeepLabV3+/ResNet-101 segmentation on satellite imagery + s
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=58A6FF&height=80&section=footer" width="100%"/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rudrab06&color=58a6ff&style=flat-square" alt="Profile views" />
