@@ -225,11 +225,18 @@ Unity (C#) AR-to-VR bridge using mobile IMU sensor fusion — cuts dependency on
 
 <div align="center">
 
-![Rudra's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rudrab06&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff)
+<a href="https://github.com/rudrab06">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rudrab06&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rudrab06&layout=compact&langs_count=8&theme=algolia&hide_border=true"/>
+</a>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rudrab06&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=58a6ff)
+<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rudrab06&theme=dark&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff)
+
+<br/>
+
+[![rudrab06's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=rudrab06&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/rudrab06)
 
 </div>
 
