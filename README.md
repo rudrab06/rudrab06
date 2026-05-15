@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated typing banner -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rudra+Baunk+%F0%9F%91%8B;AI+%2F+ML+Researcher+%F0%9F%A4%96;Co-Founder+%40+Justica+AI+%E2%9A%96%EF%B8%8F;ISRO+Hackathon+Builder+%F0%9F%9B%B0%EF%B8%8F;AWS+Bedrock+Hackathon+Winner+%F0%9F%9A%80;Research+Intern+%40+IIT+Mandi+%F0%9F%94%AC;GATE+2026+Qualified+%F0%9F%8E%93" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Rudra+Baunk+%F0%9F%91%8B;AI+%2F+ML+Researcher+%F0%9F%A4%96;Co-Founder+%40+Justica+AI+%E2%9A%96%EF%B8%8F;ISRO+Hackathon+Builder+%F0%9F%9B%B0%EF%B8%8F;AWS+Bedrock+Hackathon+Participant+%F0%9F%9A%80;Research+Intern+%40+IIT+Mandi+%F0%9F%94%AC;GATE+2026+Qualified+%F0%9F%8E%93" alt="Typing SVG" />
 
 <br/>
 
