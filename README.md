@@ -90,6 +90,29 @@ I like AI that does things — agents that reason over legal documents, models t
 <tr>
 <td width="50%" valign="top">
 
+### 🏸 Badminton Line-Calling System
+
+Single-camera IN/OUT line calling from ordinary video — no special hardware. Click-free court calibration from the painted lines, TrackNetV3 shuttlecock tracking, first-floor-contact detection, and uncertainty-aware calls that say **TOO_CLOSE** rather than guess. On a sealed test set: 16 of 17 committed calls correct.
+
+![Private](https://img.shields.io/badge/🔒_Currently_Private-Confidential-555555?style=flat)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![Computer Vision](https://img.shields.io/badge/Computer_Vision-5C3EE8?style=flat)
+
+> 🔒 *Repository is currently private due to confidentiality.*
+
+</td>
+<td width="50%" valign="top">
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ⚖️ Justica — Agentic AI for Legal Intelligence
+
+
+
 ### ⚖️ Justica — Agentic AI for Legal Intelligence
 
 Co-founded an AI-native legaltech startup. Multi-agent pipelines using RAG, vector search, and LLM APIs for context-aware, jurisdiction-specific legal query answering. Leading AI system design + product + GTM for B2B legal clients.
