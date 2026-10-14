@@ -107,7 +107,7 @@ Single-camera IN/OUT line calling from ordinary video — no special hardware. C
 <tr>
 <td width="50%" valign="top">
 
-### ⚖️ Justica — Agentic AI for Legal Intelligence.(https://github.com/rudrab06/Justica-agentic-justice-)(Confidential)
+### [⚖️ Justica — Agentic AI for Legal Intelligence](https://github.com/rudrab06/Justica-agentic-justice-)(Confidential)
 
 Co-founded an AI-native legaltech startup. Multi-agent pipelines using RAG, vector search, and LLM APIs for context-aware, jurisdiction-specific legal query answering. Leading AI system design + product + GTM for B2B legal clients.
 
