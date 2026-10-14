@@ -74,7 +74,7 @@ I like AI that does things — agents that reason over legal documents, models t
 | Area | What I'm doing | Status |
 |------|----------------|--------|
 | 🏸 **[Badminton Line-Calling System](https://github.com/rudrab06/badminton-calling-system)** | Single-camera IN/OUT line calling — click-free court calibration, TrackNetV3 shuttlecock tracking, first-floor-contact detection with uncertainty-aware calls | 🟡 Active |
-| ⚖️ **Agentic AI / LegalTech(https://github.com/rudrab06/Justica-agentic-justice-)** | Co-founding Justica — multi-agent RAG pipelines for legal research & case reasoning | 🟡 Active |
+| ⚖️ **[Agentic AI / LegalTech](https://github.com/rudrab06/Justica-agentic-justice-)** | Co-founding Justica — multi-agent RAG pipelines for legal research & case reasoning | 🟡 Active |
 | 🔬 **Biomedical Imaging** | Fully automated microscope — 3D-printed hardware + CV-based image segmentation | 🟡 Active |
 | 🎬 **NovaLearn (AWS Bedrock)** | 4-agent video gen pipeline on AWS Bedrock + Chrome MV3 extension for AI study sessions | ✅ Complete |
 | 🛰️ **Geospatial AI (ISRO 2025)** | End-to-end agentic pipeline with vector embeddings + NL querying over GeoJSON maps | ✅ Complete |
