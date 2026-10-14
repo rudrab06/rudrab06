@@ -88,7 +88,7 @@ I like AI that does things — agents that reason over legal documents, models t
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🏸 Badminton Line-Calling System
 
@@ -103,15 +103,9 @@ Single-camera IN/OUT line calling from ordinary video — no special hardware. C
 > 🔒 *Repository is currently private due to confidentiality.*
 
 </td>
-<td width="50%" valign="top">
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
-
-### ⚖️ Justica — Agentic AI for Legal Intelligence
-
-
 
 ### ⚖️ Justica — Agentic AI for Legal Intelligence
 
@@ -191,7 +185,6 @@ Unity (C#) AR-to-VR bridge using mobile IMU sensor fusion — cuts dependency on
 </tr>
 </table>
 
----
 
 ## 💻 Tech Stack
 
